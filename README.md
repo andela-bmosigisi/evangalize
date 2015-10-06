@@ -7,6 +7,8 @@ and informs you what category of Evangelist the user is.
 Also, the returned details of a particular user are provided
 and may be used for whatever else purpose.
 
+A lot more features coming soon!!!
+
 ## Install
 
 - composer require burayan/evangalize
@@ -26,6 +28,7 @@ and may be used for whatever else purpose.
     $analysis->getEvangelistStatus();
 ```
 
-## Testing
 
-    composer test
+## License
+
+The MIT License (MIT). Please see [License File](https://opensource.org/licenses/MIT) for more information.
