@@ -5,12 +5,11 @@ This package allows you to do analysis on a github user,
 by providing his username. It counts the number of repositories
 and informs you what category of Evangelist the user is.
 Also, the returned details of a particular user are provided
-and may be used for whatever else purpose
+and may be used for whatever else purpose.
 
 ## Install
 
-- Clone the Repo
-- Navigate to /1B
+- composer require burayan/evangalize
 - Run:
     composer install
 
