@@ -1,14 +1,17 @@
 {
+    "name": "burayan/evangalize",
+    "type": "library",
+    "description": "Github User Analysis",
+    "homepage": "https://github.com/andela-bmosigisi/evangalize",
+    "license": "MIT",
     "require-dev": {
         "phpunit/phpunit": "4.8.6"
     },
-
     "autoload": {
         "classmap": [
             "src"
         ]
     },
-    
     "scripts": {
         "test": "./vendor/bin/phpunit"
     }
