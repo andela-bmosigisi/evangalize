@@ -17,7 +17,8 @@ A lot more features coming soon!!!
 
 ## Usage
 
-```
+```php
+    
     use Burayan\Evangalize\Evangelist;
     use Burayan\Evangalize\EvangelistAnalysis;
     
@@ -26,6 +27,7 @@ A lot more features coming soon!!!
 
     $analysis->init();
     $analysis->getEvangelistStatus();
+
 ```
 
 
